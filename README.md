@@ -1,0 +1,2 @@
+# EmailBot
+STARR email bot
